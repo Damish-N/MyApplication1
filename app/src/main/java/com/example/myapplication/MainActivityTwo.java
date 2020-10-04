@@ -26,7 +26,7 @@ public class MainActivityTwo extends AppCompatActivity {
 //            }
 //        });
          text = findViewById(R.id.textView2);
-         text.setText("Hello Nisal");
+         text.setText("Hello Damish");
          Intent intent = getIntent(); // to get passing Intend
 //          String ss= intent.getStringExtra("USER_NAME");
         Bundle ss = intent.getExtras();
